@@ -2,6 +2,8 @@
 
 A curated list of awesome Swift frameworks, libraries and software.
 
+
+* [Alamofire/Alamofire](https://github.com/kiritmodi2702/SoapAPIDemo) - SOAP API Demo in Swift
 * [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 * [fullstackio/FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
 * [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift
